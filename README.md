@@ -21,4 +21,4 @@ Power BI Desktop, Power Query
 - November is the peak sales month
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
